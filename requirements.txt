@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-allauth
+django-rest-auth
+django-rest-swagger
+django-model-utils
+factory-boy
